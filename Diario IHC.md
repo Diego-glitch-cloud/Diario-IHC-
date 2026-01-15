@@ -73,6 +73,7 @@ correo: dmaldana@uvg.edu.gt
 ## Público objetivo y demográficos
 
 - ¿Cuántos usuarios tiene TikTok en total?
+	- de 1600 a 1900 millones de usuarios en la actualidad
 - ¿Cuál es la distribución de las edades de los usuarios de TikTok?
 	- 18-24 años 
 		- 27%
@@ -88,10 +89,22 @@ correo: dmaldana@uvg.edu.gt
 	- Mujeres
 		- 44.3%
 - ¿Cuál es la distribución de los niveles de educación de los usuarios de TikTok?
+	- Basado en las edades, podemos pensar que la mayoría de los estudiantes se encuentran en universidad o temprana adultez, aunque otro porcentaje importante son adolescentes.
 - ¿Qué porcentaje de los usuarios usa TikTok todos los días?
+	- Del 57% A 65% lo usan diariamente
 - ¿Cuántas horas al día usa TikTok un usuario promedio?
+	- Al día, en promedio se usa hora y media la aplicación a nivel global 
 - ¿Cuándo tiempo dura una sesión de uso promedio?
+	- Según las estadísticas, se usa aproximadamente 11 minutos cada vez que la aplicación se abre
 - ¿Cómo se compara TikTok con las otras redes sociales populares en cuanto a total de usuarios?
+	- TikTok es la 5ta red social más popular del mundo. 
+	- según el número total de usuarios, se ordenan de la siguiente manera. 
+		- Facebook: 3030 millones 
+		- WhatsApp: 2780 millones 
+		- Youtube: 2700 millones 
+		- Instagram: 2350 millones 
+		- TikTok: 1670-1900 millones
+	- Cabe aclarar que TikTok es la número 1 cuando se trata de tiempo de permanencia por usuario 
 ---
 # Referencias 
 >[!QUOTE]- REFERENCIAS
