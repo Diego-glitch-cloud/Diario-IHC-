@@ -108,6 +108,16 @@ correo: dmaldana@uvg.edu.gt
 		- TikTok: 1670-1900 millones
 	- Cabe aclarar que TikTok es la número 1 cuando se trata de tiempo de permanencia por usuario 
 ---
+Tras pasar la encuesta: https://fpj6kcy1z9w.typeform.com/to/eTPbMUFs
+
+- ¿Qué porcentaje de usuarios dijo que TikTok era una de sus top 3 aplicaciones?
+- ¿Qué porcentaje de los usuarios dijo que utilizaba TikTok todos los días?
+- ¿Cuales fueron los 3 adjetivos más utilizados?
+- ¿Consideran que el diseño de la aplicación de TikTok se siente como los diseñadores originales planificaron?
+
+
+
+---
 # Referencias 
 >[!QUOTE]- REFERENCIAS
 >Tik Tok 
