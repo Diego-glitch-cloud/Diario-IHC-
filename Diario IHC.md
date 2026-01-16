@@ -83,11 +83,13 @@ correo: dmaldana@uvg.edu.gt
 		- 16%
 	- 45 en adelante 
 		- 17%
+![[image-9.png]]
 - ¿Cuál es la distribución de los géneros de los usuarios de TikTok?
 	- Hombres 
-		- 55.7%
+		- 55.7
 	- Mujeres
 		- 44.3%
+![[image-10.png]]
 - ¿Cuál es la distribución de los niveles de educación de los usuarios de TikTok?
 	- Basado en las edades, podemos pensar que la mayoría de los estudiantes se encuentran en universidad o temprana adultez, aunque otro porcentaje importante son adolescentes.
 - ¿Qué porcentaje de los usuarios usa TikTok todos los días?
