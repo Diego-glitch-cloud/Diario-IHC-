@@ -112,8 +112,15 @@ Tras pasar la encuesta: https://fpj6kcy1z9w.typeform.com/to/eTPbMUFs
 
 - ¿Qué porcentaje de usuarios dijo que TikTok era una de sus top 3 aplicaciones?
 - ¿Qué porcentaje de los usuarios dijo que utilizaba TikTok todos los días?
+	- 13 de 14 encuestados, lo que representa un 92%
 - ¿Cuales fueron los 3 adjetivos más utilizados?
+	- los 3 adjetivos más utilizados fueron "Fácil", "simplicidad" e "intuitivo" en las diferentes preguntas de la encuesta. 
 - ¿Consideran que el diseño de la aplicación de TikTok se siente como los diseñadores originales planificaron?
+	- Considero que sí, aunque podría ser mejor.
+	- el propósito de los diseñadores era atrapar a los usuarios con videos cortos y adictivos. Cuando vemos la aplicación, nos damos cuenta que la mayoría de las funcionalidades se encuentran en la propia pantalla, en el mismo lugar donde scrolleamos. 
+	- Esto provoca que el usuario no tenga que cambiar de interfaz para interactuar o revisar información del video. 
+	- Sin embargo, también provoca que la interfaz se sienta saturada con demasiada información en pantalla, tanta que a veces no permite ver el contenido con claridad. 
+	- De cualquier forma, los encuestados votaron en un rango de 1-10 qué tan claro es el diseño de la barra de navegación; obteniendo un puntaje en promedio de 8.86/10.
 
 
 
