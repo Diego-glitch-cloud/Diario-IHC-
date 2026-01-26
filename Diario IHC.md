@@ -6,10 +6,14 @@ correo: dmaldana@uvg.edu.gt
 # Index
 
 %% Begin Waypoint %%
+- **[[Diario Personas]]**
+
+- **[[Diario TikTok]]**
+
+- **[[Diario Touch Controls]]**
+
 - **pdfs**
 
-- [[Diario TikTok]]
-- [[Diario Touch Controls]]
 - [[README]]
 
 %% End Waypoint %%
