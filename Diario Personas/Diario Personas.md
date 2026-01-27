@@ -2,7 +2,6 @@
 
 ---
 
-
 # Página principal: Análisis
 
 Utilizando uno o más screenshots recientes de TikTok (puede ser de su propia cuenta, de algún compañero o de internet), marquen todas las interacciones posibles que se pueden hacer en la página principal de TikTok. Creen un recuadro a través del área de interacción y escriban qué ocurre al interactuar con ella.

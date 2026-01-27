@@ -7,6 +7,7 @@ correo: dmaldana@uvg.edu.gt
 + # 241263
 - # [[#Referencias]] 
 --- 
+
 ## Entendiendo a TikTok como institución 
 
 - ¿Qué es TikTok (compañía)?
