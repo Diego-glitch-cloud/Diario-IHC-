@@ -101,3 +101,33 @@ Para su diario, agreguen para cada una de sus personas al menos dos historias de
 - Al abrir la aplicación de TikTok, en la pantalla principal, yo `Luis Estuardo` quiero poder `acceder a enlaces de transmisiones en vivo de Twitch desde TikTok` para poder `ver a mis streamers favoritos`.
 
 - Al abrir la aplicación de TikTok, en la pantalla principal, yo `Luis Estuardo` quiero poder `ver resúmenes de partidos del mundial` para poder `disfrutar del evento aunque no sepa mucho y me aburra vver el partido completo`.
+---
+# Página principal: Feedback de Usuarios
+
+La pantalla principal de TikTok navega hacia algunas funciones muy importantes al hacer swipe. Sasu recuerda haber escuchado una conversación entre algunos de sus superiores que estaban muy orgullosos de como los botones en la barra superior se alineaban con la funcionalidad de swipe, pero él cree que si no hubiera escuchado esa conversación, nunca hubiera descifrado esto. 
+
+¿Será que los usuarios comprenden la navegación por swipe, o serían estas funciones mejor aprovechadas de otra manera?
+
+## Feedback de usuarios
+
+En su diario, contesten estas preguntas usando la aplicación de TikTok:
+
+1. ¿En la pantalla principal, que pasa cuando hacen swipe de IZQUIERDA  a DERECHA?
+
+	Paso de la sección de inicio a la sección de amigos o creación de video, navegando por el menú inferior. 
+
+2. ¿En la pantalla principal, que pasa cuando hacen swipe de DERECHA a IZQUIERDA?
+
+	Entro al perfil de la persona que subió el video, esto también se puede hacer dando click en su nombre de usuario o bien dando click en su foto de perfil a la derecha. 
+
+Es importante que lo hagan sin revisar la aplicación de tik tok.   
+  
+Luego validen sus hipotesis. Escriban en su diario que tan intuitiva fue esta interacción.
+
+> Hipótesis 1: 
+> rechazada.
+	Paso a la página "Para ti" a la página "siguiendo", las cuales también se pueden ver en la parte superior de la pantalla y se pueden cambiar haciendo click en ellas, es decir, no es obligatorio hacerlo por swipe.
+
+> Hipótesis 2
+> Aceptada.
+
