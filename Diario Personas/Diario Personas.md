@@ -130,3 +130,27 @@ Luego validen sus hipotesis. Escriban en su diario que tan intuitiva fue esta in
 > Hipótesis 2
 > Aceptada.
 
+
+---
+# Rediseño 1
+
+![[rediseño1.jpg]]
+
+
+## Modificaciones
+
+1. Cambiar la imagen del perfil de posición
+
+Hay varias formas para acceder al perfil, desde clickear el nombre, hasta deslizar la pantalla. Al eliminar la imagen de perfil podemos ahorrar espacio en pantalla y no saturar. 
+
+2. Eliminar botón de "pantalla completa"
+
+La función de pantalla completa puede hacerse girando el teléfono o pellizcando la pantalla. Este botón solo ensucia la pantalla. 
+
+3. Eliminar conteo de guardado y compartido
+
+El conteo de compartido y de guardado no aporta información útil, pueden eliminarse para dar más espacio en pantalla. 
+
+4. Juntar más los símbolos laterales
+
+Los símbolos sin el conteo de compartidos y guardados pueden hacerse más pequeños y juntarlos más para aprovechar mejor el espacio. 
