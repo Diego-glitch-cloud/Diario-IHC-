@@ -154,3 +154,9 @@ El conteo de compartido y de guardado no aporta información útil, pueden elimi
 4. Juntar más los símbolos laterales
 
 Los símbolos sin el conteo de compartidos y guardados pueden hacerse más pequeños y juntarlos más para aprovechar mejor el espacio. 
+
+
+![[Rediseños TikTok.pdf]]
+
+
+![[R1.png]]
