@@ -153,3 +153,17 @@ Grabé en audio ambas entrevistas, la primera fue mostrando el rediseño de la p
 - Los botones deben ser más grandes en la página principal, y considerar si añadir alguna opción nueva. 
 - considerar quitar o cambiar los botones confusos en la página de mensajes, como agregar amigos (tal vez puede cambiarse a pantalla de perfil)
 - Considerar ajustar la posición de los botones para que quede más centrado. 
+
+----
+
+# Iteración y mejoras de diseño 
+
+## Mejora 1
+
+![[M1.png]]
+
+
+
+## Mejora 2 
+
+![[M2.png]]
