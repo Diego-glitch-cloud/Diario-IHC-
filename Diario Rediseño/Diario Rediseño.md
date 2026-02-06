@@ -202,7 +202,20 @@ Contesten en su diario, para cada uno de sus diseños:
 	- Secundario: Proporcionar información sobre la popularidad de los videos. 
 	- Terciario: Optimizar la experiencia de exploración del contenido. 
 
+---
 
+# Revisión de diseños: Colores
+
+- ¿Son los links hacia otras partes de la aplicación del mismo color?
+	- sí
+- ¿Son las ‘acciones’ tratadas de manera diferente que los  ‘elementos de navegación’?
+	- Sí son tratadas diferentes y están en diferentes posiciones 
+- ¿Son las acciones primarias y secundarias,  como 'submit' o 'cancelar' tratadas de manera diferente?
+	- sí son tratadas de manera diferente
+
+¿Creen que su diseño tiene suficiente contraste para que sus usuarios lo puedan utilizar cómodamente?
+
+creo que sí, se pueden ver las opciones en bajos contrastes y no deberían causar problemas 
 
 ---
 # Iteración y mejoras de diseño 
