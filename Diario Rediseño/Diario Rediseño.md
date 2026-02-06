@@ -2,6 +2,7 @@
 
 ---
 
+
 Revisen su diseño actual de la página principal de TikTok y reflexionen sobre las decisiones tomadas. Respondan las siguientes preguntas en su diario de investigación:
 
 - **¿Qué problemas específicos busca resolver mi diseño?**
@@ -162,8 +163,9 @@ Grabé en audio ambas entrevistas, la primera fue mostrando el rediseño de la p
 
 ![[M1.png]]
 
+### Mejoras realizadas: 
+- Ajusté la posición de los botones más importantes para que estén más al centro y sean más fáciles de alcanzar con el pulgar.
+- Hice los botones transparentes para que se puede ver el video a través de ellos y la interfaz no sea molesta
+- Hice los botones más grandes, ya que una crítica que recibí en mi entrevista fue el pequeño tamaño de los botones. 
+- Mantuve el guardado y compartido sin su cuenta, pues creo que es más valioso tener una interfaz más limpia y amigable que la información que esos dos botones ofrecen.
 
-
-## Mejora 2 
-
-![[M2.png]]
