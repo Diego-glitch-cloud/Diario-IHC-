@@ -28,7 +28,7 @@ Escriban brevemente qué pantallas escogieron y por qué. Luego detallen qué ca
 
 ## Página mensajes
 
-![[R2.png]]
+![[R2.png|613x345]]
 
 ### Motivo 
 Escogí esta pantalla dado que cuando la vi, no entendí por qué las notificaciones y los mensajes están juntos y sin ningún orden aparente, más que por la fecha. 
@@ -156,12 +156,60 @@ Grabé en audio ambas entrevistas, la primera fue mostrando el rediseño de la p
 - Considerar ajustar la posición de los botones para que quede más centrado. 
 
 ----
+# Jerarquía de elementos
 
+Contesten en su diario, para cada uno de sus diseños:
+
+- ¿Refleja el tamaño de los elementos su importancia?
+- ¿Refleja la posición de los elementos su importancia?
+- ¿Cuál es el propósito primario, secundario o terciario de cada pantalla?
+
+## Diseño 1: 
+![[R1.png|677x381]]
+
+- ¿Refleja el tamaño de los elementos su importancia?
+	- Según mi entrevista y según la jerarquía de importancia, los botones laterales deberían ser más grandes. 
+- ¿Refleja la posición de los elementos su importancia?
+	- Considero que sí, pues en mi rediseño decidí posicionar los elementos de menor importancia fuera del centro de la pantalla para que no estorben la interfaz.
+- ¿Cuál es el propósito primario, secundario o terciario?
+	- Primario: permitir consumir contenido de forma optimizada y limpia 
+	- Secundario: Facilitar la interacción con el contenido, como dar like o comentar.
+	- Terciario: Ofrecer una navegación fluida sin acciones accidentales.
+
+## Diseño 2:
+
+![[R2.png|613x345]]
+
+- ¿Refleja el tamaño de los elementos su importancia?
+	- Sí, los tamaños reflejan su importancia y jerarquía. 
+- ¿Refleja la posición de los elementos su importancia?
+	- sí, en mi rediseño moví las notificaciones por aparte para darle su importancia adecuada, así como dar importancia a los propios mensajes. 
+- ¿Cuál es el propósito primario, secundario o terciario?
+	- Primario: Dejar ver al usuario sus mensajes de forma organizada. 
+	- Secuandario: Ofrecer acceso dedicado y ordenado a las notificaciones. 
+	- Terciario: Facilitar acciones de comunicación, como buscar mensajes o buscar amigos. 
+
+## Diseño 3:
+
+![[R3.png]]
+
+- ¿Refleja el tamaño de los elementos su importancia?
+	- Sí, considero que la vista sigue lo que es más importante, y mi aporte añade información útil sin ser muy grande 
+- ¿Refleja la posición de los elementos su importancia?
+	- considero que sí 
+- ¿Cuál es el propósito primario, secundario o terciario?
+	- Primario: Facilitar al usuario descubrimiento interesante
+	- Secundario: Proporcionar información sobre la popularidad de los videos. 
+	- Terciario: Optimizar la experiencia de exploración del contenido. 
+
+
+
+---
 # Iteración y mejoras de diseño 
 
 ## Mejora 1
 
-![[M1.png]]
+![[M1.png|677x381]]
 
 ### Mejoras realizadas: 
 - Ajusté la posición de los botones más importantes para que estén más al centro y sean más fáciles de alcanzar con el pulgar.
